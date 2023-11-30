@@ -1,4 +1,4 @@
 # 1stGithub
 This is my 1st  repository.
 <br>
-Author - Lovely Developer
+Author - Lovely Singh (Developer)
